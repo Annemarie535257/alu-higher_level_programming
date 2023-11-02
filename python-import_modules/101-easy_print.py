@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-import module1
+import python_for_me
