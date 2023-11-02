@@ -1,2 +1,1 @@
-# alu-higher_level_programming
-Python Programming
+Write a Shell script that runs a Python script.
